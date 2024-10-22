@@ -12,3 +12,4 @@
 /Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.pdb
 /Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.genruntimeconfig.cache
 /Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/ref/MetadataComparer.dll
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.sourcelink.json
