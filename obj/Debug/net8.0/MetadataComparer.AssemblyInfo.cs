@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetadataComparer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+200cf4c877bdbfac7420ec9916fce8c88435f42b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4332cab8ffdfa1c50c68f55f98bf58e4ebe8b95")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetadataComparer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetadataComparer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
