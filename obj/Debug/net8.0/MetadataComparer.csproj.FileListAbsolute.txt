@@ -1,0 +1,14 @@
+/Users/amithabh_a/Projects/MetadataComparer/bin/Debug/net8.0/MetadataComparer
+/Users/amithabh_a/Projects/MetadataComparer/bin/Debug/net8.0/MetadataComparer.deps.json
+/Users/amithabh_a/Projects/MetadataComparer/bin/Debug/net8.0/MetadataComparer.runtimeconfig.json
+/Users/amithabh_a/Projects/MetadataComparer/bin/Debug/net8.0/MetadataComparer.dll
+/Users/amithabh_a/Projects/MetadataComparer/bin/Debug/net8.0/MetadataComparer.pdb
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.AssemblyInfoInputs.cache
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.AssemblyInfo.cs
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.csproj.CoreCompileInputs.cache
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.dll
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/refint/MetadataComparer.dll
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.pdb
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/MetadataComparer.genruntimeconfig.cache
+/Users/amithabh_a/Projects/MetadataComparer/obj/Debug/net8.0/ref/MetadataComparer.dll
