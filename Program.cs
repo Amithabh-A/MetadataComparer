@@ -174,10 +174,9 @@ class Program
     }
 
     /// <summary>
+    /// Writes the differences dictionary to json file.
     /// </summary>
-    /// <param name="differences"></param>
-    /// <param name="outputFilePath"></param>
-    /// <returns></returns>
+    /// <param name="differences">The dictionary containing the differences.</param>
     private static void WriteDifferencesToFile(Dictionary<int, List<object>> differences, string outputFilePath)
     {
         JsonSerializerOptions options = new JsonSerializerOptions { WriteIndented = true };
